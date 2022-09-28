@@ -1,3 +1,4 @@
+![code](https://user-images.githubusercontent.com/102053931/192801323-d2162eeb-7382-4529-a636-eafb5fa7a29f.gif)
 ### Hi there 👋
 
 <!--
